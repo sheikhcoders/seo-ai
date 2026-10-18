@@ -1,3 +1,15 @@
+---
+title: Autonomous SEO & Organic Growth Agent
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 4.21.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Autonomous SEO & Organic Growth Agent (`seo-ai`)
 
 Welcome to the **Autonomous SEO & Organic Growth Agent** repository. This project serves as an end-to-end framework and system operational guide for an autonomous SEO strategist, technical SEO engineer, content optimization specialist, AI search visibility expert, and organic growth analyst.
@@ -20,7 +32,9 @@ Welcome to the **Autonomous SEO & Organic Growth Agent** repository. This projec
 ```
 .
 ├── SYSTEM_PROMPT.md                # Complete System Prompt & Directives for SEO Master Agent
-├── README.md                       # Repository Overview and Usage Guide
+├── README.md                       # Repository Overview and Hugging Face Space Metadata
+├── app.py                          # Fast Gradio Web Application UI
+├── requirements.txt                # Dependencies for Space deployment
 └── docs/                           # Documentation & Strategy Frameworks
     ├── action_plan_30_day.md       # Initial 30-Day SEO Action Plan
     └── modules/                    # Specialist Module Audit & Task Templates
